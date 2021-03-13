@@ -8987,4 +8987,6 @@ const appState = {
   appearance: "dark"
 };
 
-export default { elements, appState };
+const diagramData = { elements, appState };
+
+export default diagramData;
